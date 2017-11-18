@@ -20,3 +20,4 @@ while zgaduj != answer:
 			print("- " * 20 + "\nZa pierwszym podejściem! Farciarz!")
 		else:
 			print("- " * 20 + "\nZgadłeś za {0} razem, szukana liczba to {1}.".format(ktory_raz, answer))
+			
