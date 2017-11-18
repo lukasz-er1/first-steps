@@ -1,2 +1,2 @@
 # first-steps
-Documentation of my learning to code in python.
+Documentation of my first steps in python.
